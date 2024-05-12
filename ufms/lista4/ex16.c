@@ -34,6 +34,10 @@ int main(){
                 {
                     comida= comida +1;
                 }
+                if (caixa[i+1][j-1] == 2 && caixa[i+2])
+                {
+                    
+                }
             }
             
         }
